@@ -2,5 +2,4 @@
 .idea
 .venv
 libpythonpro.egg-info
-.flake8
 biuld
