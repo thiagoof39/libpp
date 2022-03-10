@@ -28,3 +28,5 @@ Tópicos a serem abordados:
  1. Git
  2. Virtualenv
  3. Pip
+
+<!-- https://plataforma.dev.pro.br/31287-pytools/695923-pull-request-nao-aceito -->
